@@ -1,6 +1,6 @@
 # Saga - color theme
 
-The `Saga` color theme is based on dramatic landscape photos of cold, remote places like Iceland and Alaska. The `Saga` theme colors are pulled from things such as blue glacier waters, green mossy rocks and craggy mountainsides. The theme was built from the ground up and not based on any existing theme. I've been using it primarily for SCSS, CSS, HTML and Vue files but it should work well for most code syntax. Give it a try and I hope you'll be pleasantly surprised.
+The `Saga` color theme is inspired by the dramatic landscapes of places worthy of epic tales like Iceland and Alaska. The `Saga` theme colors are pulled from photos of craggy mountainsides, green mossy rocks and blue glacier waters. The theme was built from the ground up and I've tried to cover most situations. I've been using it primarily for SCSS, CSS, HTML and Vue files but it should work well for most code syntax. Give it a try and I hope it'll work for you too.
 
 ---
 ## Installation
