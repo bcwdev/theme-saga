@@ -3,7 +3,7 @@
     "displayName": "Saga Color Theme",
     "publisher": "bcwsea",
     "description": "Color theme inspired by dramatic landscapes worthy of epic tales.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.61.0"
     },
