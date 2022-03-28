@@ -1,9 +1,9 @@
 {
     "name": "theme-saga",
-    "displayName": "Saga Color Theme",
+    "displayName": "Saga Theme",
     "publisher": "bcwsea",
-    "description": "Color theme inspired by dramatic landscapes worthy of epic tales.",
-    "version": "0.0.2",
+    "description": "Dark theme for Visual Studio Code inspired by dramatic landscapes. Optimized for JavaScript (Vue), HTML, and Sass/SCSS.",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.61.0"
     },
@@ -13,7 +13,17 @@
     },
     "keywords": [
 		"Theme",
+        "Color Theme",
+        "Dark",
 		"Dark Theme",
+        "Blue",
+        "Green",
+        "Teal",
+        "CSS",
+        "SCSS",
+        "HTML",
+        "Javascript",
+        "Landscape",
         "Iceland",
         "Alaska",
         "Saga"

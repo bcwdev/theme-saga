@@ -1,15 +1,12 @@
-# Saga - color theme
+# Saga - theme
 
-The `Saga` color theme is inspired by the dramatic landscapes of places worthy of epic tales like Iceland and Alaska. The `Saga` theme colors are pulled from photos of craggy mountainsides, green mossy rocks and blue glacier waters. The theme was built from the ground up and I've tried to cover most situations. I've been using it primarily for SCSS, CSS, HTML and Vue files but it should work well for most code syntax. Give it a try and I hope it'll work for you too.
+`Saga` is a dark theme based on my love of dramatic landscapes - remote formidable places that inspire epic tales like Iceland and Alaska. 
 
----
-## Installation
+The theme was meticulously built from the ground up and I've tried to cover most situations. The `Saga` theme colors are pulled from landscape photos of a wide range of environments like craggy mountainsides, green mossy trees and blue glacial waters. 
 
-- Open the Visual Studio Code Market Place in Visual Studio Code by clicking on the Extensions icon
-- Search for `Saga`
-- Click Install button
-- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-- Select Preferences > Color Theme > choose `Saga` from the list and enjoy!
+It has been designed to be intuitive and pleasant to use for extended coding sessions. 
+
+I've been using it primarily for SCSS, CSS, HTML and Vue and it's particularly well suited for those but it should work well for most code languages and syntax. Give it a try and I hope it'll work for you too.
 
 ---
 ## Screenshot Preview and syntax highlighting
@@ -36,6 +33,16 @@ I've included a few sample screenshots of the syntax highlighting.
 ![md syntax example](/assets/theme-saga-md.png?raw=true "md syntax example")
 
 </div>
+
+---
+## Installation
+
+- Open the Visual Studio Code Market Place in Visual Studio Code by clicking on the Extensions icon
+- Search for `Saga`
+- Click Install button
+- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+- Select Preferences > Color Theme > choose `Saga` from the list and enjoy!
+
 
 ---
 ## Thank you
