@@ -1,5 +1,12 @@
 # Change Log for Saga Theme
 
+
+## 0.0.5 - 2022-05-02
+
+### Update
+
+- Tweaked theme colors for 'Saga - Nordic'
+
 ## 0.0.4 - 2022-05-01
 
 ### New feature
