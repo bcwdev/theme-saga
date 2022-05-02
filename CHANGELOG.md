@@ -1,9 +1,12 @@
-# Change Log
+# Change Log for Saga Theme
 
-All notable changes to the "theme-saga" extension will be documented in this file.
+## 0.0.4 - 2022-05-01
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### New feature
 
-## [Unreleased]
+- Added new variation - 'Oceania'
+- Renamed old variation to 'Saga - Nordic'
+
+## 0.0.1 - 2022-03-25
 
 - Initial release

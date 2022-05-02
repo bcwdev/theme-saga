@@ -1,36 +1,26 @@
 # Saga - theme
 
-`Saga` is a dark theme based on my love of dramatic landscapes - remote formidable places that inspire epic tales like Iceland and Alaska. 
+`Saga` is a dark theme based on my love of dramatic landscapes - remote formidable places that inspire epic tales. 
 
-The theme was meticulously built from the ground up and I've tried to cover most situations. The `Saga` theme colors are pulled from landscape photos of a wide range of environments like craggy mountainsides, green mossy trees and blue glacial waters. 
-
-It has been designed to be intuitive and pleasant to use for extended coding sessions. 
+The theme has two variations - Nordic & Oceania. Both were meticulously built from the ground up. The `Saga` theme colors are pulled from landscape photos of a wide range of environments. It has been designed to be intuitive and pleasant to use for extended coding sessions. 
 
 I've been using it primarily for SCSS, CSS, HTML and Vue and it's particularly well suited for those but it should work well for most code languages and syntax. Give it a try and I hope it'll work for you too.
 
 ---
-## Screenshot Preview and syntax highlighting
+## Screenshot Previews
 
-I've included a few sample screenshots of the syntax highlighting.
+Sample screenshots of the two theme variations.
 
 <div style="max-width: 800px;">
 
-### CSS:
+### Nordic:
 
-![css syntax example](/assets/theme-saga-css.png?raw=true "css syntax example")
+![Nordic example](/assets/theme-Saga-Nordic-screenshot.png?raw=true "css syntax example")
 
-### HTML:
+### Oceania:
 
-![html syntax example](/assets/theme-saga-html.png?raw=true "html syntax example")
+![Oceania example](/assets/theme-Saga-Oceania-screenshot.png?raw=true "html syntax example")
 
-### Javascript: 
-
-![js syntax example](/assets/theme-saga-js.png?raw=true "js syntax example")
-
-
-### Markdown: 
-
-![md syntax example](/assets/theme-saga-md.png?raw=true "md syntax example")
 
 </div>
 
@@ -41,7 +31,7 @@ I've included a few sample screenshots of the syntax highlighting.
 - Search for `Saga`
 - Click Install button
 - Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-- Select Preferences > Color Theme > choose `Saga` from the list and enjoy!
+- Select Preferences > Color Theme > choose `Saga - Nordic` or `Saga - Oceania` from the list and enjoy!
 
 
 ---
