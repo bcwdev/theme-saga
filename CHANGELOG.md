@@ -1,5 +1,11 @@
 # Change Log for Saga Theme
 
+## 0.0.6 - 2022-05-03
+
+### Update
+
+- Tweaked git decoration theme colors for 'Saga - Oceania'
+- Updated keywords
 
 ## 0.0.5 - 2022-05-02
 

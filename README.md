@@ -2,7 +2,7 @@
 
 `Saga` is a dark theme based on my love of dramatic landscapes - remote formidable places that inspire epic tales. 
 
-The theme has two variations - Nordic & Oceania. Both were meticulously built from the ground up. The `Saga` theme colors are pulled from landscape photos of a wide range of environments. It has been designed to be intuitive and pleasant to use for extended coding sessions. 
+The theme has two variations - Nordic & Oceania. Both were meticulously built from the ground up. The `Saga` theme colors were pulled out of landscape photos from a wide range of environments. It has been designed to be intuitive and pleasant to use for extended coding sessions. 
 
 I've been using it primarily for SCSS, CSS, HTML and Vue and it's particularly well suited for those but it should work well for most code languages and syntax. Give it a try and I hope it'll work for you too.
 
@@ -15,11 +15,11 @@ Sample screenshots of the two theme variations.
 
 ### Nordic:
 
-![Nordic example](/assets/theme-Saga-Nordic-screenshot.png?raw=true "css syntax example")
+![Nordic example](/assets/theme-Saga-Nordic-screenshot.png?raw=true "Nordic theme example")
 
 ### Oceania:
 
-![Oceania example](/assets/theme-Saga-Oceania-screenshot.png?raw=true "html syntax example")
+![Oceania example](/assets/theme-Saga-Oceania-screenshot.png?raw=true "Oceania theme example")
 
 
 </div>
