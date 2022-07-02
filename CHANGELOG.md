@@ -1,5 +1,12 @@
 # Change Log for Saga Theme
 
+## 1.0.1 - 2022-07-01
+
+### Update
+
+- Made numerous adjustments to theme colors for both theme variations - tabs darkened to better accommodate the error text
+- Updated Saga logo
+
 ## 1.0.0 - 2022-05-27
 
 ### Update
