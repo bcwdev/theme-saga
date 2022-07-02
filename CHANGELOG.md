@@ -1,6 +1,6 @@
 # Change Log for Saga Theme
 
-## 1.0.1 - 2022-07-01
+## 1.1.0 - 2022-07-01
 
 ### Update
 

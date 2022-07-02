@@ -3,7 +3,7 @@
     "displayName": "Saga Theme",
     "publisher": "bcwsea",
     "description": "Dark theme for Visual Studio Code inspired by dramatic landscapes. Optimized for JavaScript (Vue), HTML, and Sass/SCSS.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.61.0"
     },
