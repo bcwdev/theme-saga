@@ -1,5 +1,13 @@
 # Change Log for Saga Theme
 
+## 1.2.0 - 2022-08-26
+
+### Update
+
+- Made couple of color adjustments to theme colors for both theme variations - fix for checkboxes on new merge tool not showing up
+- Customized bracket pair highlight colors to match themes
+- Updated sample images
+  
 ## 1.1.0 - 2022-07-01
 
 ### Update
